@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/jjeanluis59/LoginTest/_apis/build/status/VictorJRosario.pipelines-java?branchName=master)](https://dev.azure.com/jjeanluis59/LoginTest/_build/latest?definitionId=17&branchName=master)
 
 # Contributing
 
